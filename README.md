@@ -43,7 +43,7 @@ It explores advanced Apache virtual hosting techniques including:
 
 🔧 **Apache Configuration**
 - [`httpd.conf`](./Apache%20Virtual%20Hosts%20Project_project2/etc/httpd/conf/httpd.conf)
-- [hosts](./apache-virtual-hosts-project/etc/httpd/conf/hosts)
+- [hosts](./Apache%20Virtual%20Hosts%20Project_project2/etc/httpd/conf/hosts)
 
 🖥️ **Homepage**
 - [`master_project2.html`](./Apache%20Virtual%20Hosts%20Project_project2/var/www/html_project2/master_project2.html)
