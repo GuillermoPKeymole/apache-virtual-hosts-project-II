@@ -42,27 +42,28 @@ It explores advanced Apache virtual hosting techniques including:
 ## 📎 Quick Access – Key Files
 
 🔧 **Apache Configuration**
-- [`httpd.conf`](./Apache%20Virtual%20Hosts%20Project_project2/etc/httpd/conf/httpd.conf)
+- [`httpd.conf`](https://github.com/GuillermoPKeymole/apache-virtual-hosts-project-II/blob/main/Apache%20Virtual%20Hosts%20Project_project2/etc/httpd/conf/httpd.conf)
+- [`hosts`](https://github.com/GuillermoPKeymole/apache-virtual-hosts-project-II/blob/main/Apache%20Virtual%20Hosts%20Project_project2/etc/httpd/conf/hosts)
 
 🖥️ **Homepage**
-- [`master_project2.html`](./Apache%20Virtual%20Hosts%20Project_project2/var/www/html_project2/master_project2.html)
+- [`master_project2.html`](https://github.com/GuillermoPKeymole/apache-virtual-hosts-project-II/blob/main/Apache%20Virtual%20Hosts%20Project_project2/var/www/html_project2/master_project2.html)
 
 📁 **Virtual Host Directories**
-- [`virtual1_80`](./Apache%20Virtual%20Hosts%20Project_project2/var/www/virtuals/virtual1_80/)
-- [`virtual1_8000`](./Apache%20Virtual%20Hosts%20Project_project2/var/www/virtuals/virtual1_8000/)
-- [`virtual2_80`](./Apache%20Virtual%20Hosts%20Project_project2/var/www/virtuals/virtual2_80/)
-- [`virtual2_8000`](./Apache%20Virtual%20Hosts%20Project_project2/var/www/virtuals/virtual2_8000/)
-- [`ici`](./Apache%20Virtual%20Hosts%20Project_project2/var/www/virtuals/ici/)
-- [`intranet`](./Apache%20Virtual%20Hosts%20Project_project2/var/www/virtuals/intranet/)
-- [`development`](./Apache%20Virtual%20Hosts%20Project_project2/var/www/virtuals/development/)
-- [`pre_production`](./Apache%20Virtual%20Hosts%20Project_project2/var/www/virtuals/pre_production/)
-- [`q4`](./Apache%20Virtual%20Hosts%20Project_project2/var/www/virtuals/q4/)
-- [`q5`](./Apache%20Virtual%20Hosts%20Project_project2/var/www/virtuals/q5/)
+- [`virtual1_80`](https://github.com/GuillermoPKeymole/apache-virtual-hosts-project-II/tree/main/Apache%20Virtual%20Hosts%20Project_project2/var/www/virtuals/virtual1_80)
+- [`virtual1_8000`](https://github.com/GuillermoPKeymole/apache-virtual-hosts-project-II/tree/main/Apache%20Virtual%20Hosts%20Project_project2/var/www/virtuals/virtual1_8000)
+- [`virtual2_80`](https://github.com/GuillermoPKeymole/apache-virtual-hosts-project-II/tree/main/Apache%20Virtual%20Hosts%20Project_project2/var/www/virtuals/virtual2_80)
+- [`virtual2_8000`](https://github.com/GuillermoPKeymole/apache-virtual-hosts-project-II/tree/main/Apache%20Virtual%20Hosts%20Project_project2/var/www/virtuals/virtual2_8000)
+- [`ici`](https://github.com/GuillermoPKeymole/apache-virtual-hosts-project-II/tree/main/Apache%20Virtual%20Hosts%20Project_project2/var/www/virtuals/ici)
+- [`intranet`](https://github.com/GuillermoPKeymole/apache-virtual-hosts-project-II/tree/main/Apache%20Virtual%20Hosts%20Project_project2/var/www/virtuals/intranet)
+- [`development`](https://github.com/GuillermoPKeymole/apache-virtual-hosts-project-II/tree/main/Apache%20Virtual%20Hosts%20Project_project2/var/www/virtuals/development)
+- [`pre_production`](https://github.com/GuillermoPKeymole/apache-virtual-hosts-project-II/tree/main/Apache%20Virtual%20Hosts%20Project_project2/var/www/virtuals/pre_production)
+- [`q4`](https://github.com/GuillermoPKeymole/apache-virtual-hosts-project-II/tree/main/Apache%20Virtual%20Hosts%20Project_project2/var/www/virtuals/q4)
+- [`q5`](https://github.com/GuillermoPKeymole/apache-virtual-hosts-project-II/tree/main/Apache%20Virtual%20Hosts%20Project_project2/var/www/virtuals/q5)
 
 📄 **Documents**
-- [`Report PDF`](./Guillermo_PadillaKeymole_Report_P2.pdf)
-- [`Instructions PDF`](./Projet-Part%20II_VHosts.pdf)
-- [`Original .tar archive`](./guillermopk_project2.tar)
+- [`Report PDF`](https://github.com/GuillermoPKeymole/apache-virtual-hosts-project-II/blob/main/Guillermo_PadillaKeymole_Report_P2.pdf)
+- [`Instructions PDF`](https://github.com/GuillermoPKeymole/apache-virtual-hosts-project-II/blob/main/Projet-Part%20II_VHosts.pdf)
+- [`Original .tar archive`](https://github.com/GuillermoPKeymole/apache-virtual-hosts-project-II/blob/main/guillermopk_project2.tar)
 
 ---
 
