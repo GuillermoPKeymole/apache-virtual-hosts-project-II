@@ -43,7 +43,7 @@ It explores advanced Apache virtual hosting techniques including:
 
 🔧 **Apache Configuration**
 - [`httpd.conf`](https://github.com/GuillermoPKeymole/apache-virtual-hosts-project-II/blob/main/Apache%20Virtual%20Hosts%20Project_project2/etc/httpd/conf/httpd.conf)
-- [`hosts`](https://github.com/GuillermoPKeymole/apache-virtual-hosts-project-II/blob/main/Apache%20Virtual%20Hosts%20Project_project2/etc/httpd/conf/hosts)
+- [`hosts`](https://github.com/GuillermoPKeymole/apache-virtual-hosts-project-II/blob/main/Apache%20Virtual%20Hosts%20Project_project2/etc/hosts)
 
 🖥️ **Homepage**
 - [`master_project2.html`](https://github.com/GuillermoPKeymole/apache-virtual-hosts-project-II/blob/main/Apache%20Virtual%20Hosts%20Project_project2/var/www/html_project2/master_project2.html)
