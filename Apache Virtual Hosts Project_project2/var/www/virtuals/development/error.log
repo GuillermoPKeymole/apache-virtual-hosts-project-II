@@ -1,0 +1,1 @@
+[Tue Apr 22 11:27:44.637375 2025] [authz_core:error] [pid 13543:tid 13572] [client 10.35.16.2:39874] AH01630: client denied by server configuration: /var/www/virtuals/development/

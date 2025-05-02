@@ -1,0 +1,6 @@
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+10.35.16.1 virtual1.aucegep.com
+10.35.16.1 virtual2.aucegep.com
+10.35.17.1 www.ici.com intranet.ici.com development.ici.com
+10.50.1.1   www.itmt.com www.itmt.ca www2.itmt.com www.montmo.com www.montmo.ca

@@ -1,0 +1,5 @@
+10.35.16.2 - - [22/Apr/2025:10:46:45 -0400] "GET / HTTP/1.1" 200 48 "http://192.168.50.10/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+10.35.16.2 - - [22/Apr/2025:10:46:45 -0400] "GET /favicon.ico HTTP/1.1" 404 196 "http://intranet.ici.com/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+10.35.17.2 - - [22/Apr/2025:11:14:44 -0400] "GET / HTTP/1.1" 200 48 "http://192.168.50.10/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+10.35.17.2 - - [22/Apr/2025:15:46:31 -0400] "GET / HTTP/1.1" 200 48 "http://192.168.50.10/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+10.35.17.2 - - [22/Apr/2025:16:08:42 -0400] "GET / HTTP/1.1" 200 48 "http://192.168.50.10/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
